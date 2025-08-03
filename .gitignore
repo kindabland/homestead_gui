@@ -1,0 +1,4 @@
+*.jar
+.slicer-in/
+.slicer-leftover/
+.slicer-out/
