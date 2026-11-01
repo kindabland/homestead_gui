@@ -1,0 +1,7 @@
+{
+    condition: "hotbarType.hotbar_default",
+        fallback: [
+"assets/minecraft/textures/gui/sprites/hud/hotbar/hotbar_default.png",
+"assets/minecraft/textures/gui/sprites/hud/hotbar/hotbar_wynncraft.png"
+   ]
+}

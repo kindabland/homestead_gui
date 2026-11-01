@@ -1,0 +1,11 @@
+{
+    id: "homesteadGUI",
+    version: 14,
+    capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
+    conf: {
+        hotbarType: [
+            "hotbar_default",
+            "hotbar_wynncraft"]
+        }
+    }
+}
