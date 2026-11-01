@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 97.1,
-    "description": "\u00A7bHomestead GUI by \u00A73Noelle! \u00A77 |\u00A77 Public Alpha v0.2.1"
+    "min_format": 84,
+    "max_format": 97.1,
+    "description": "\u00A7bHomestead GUI by \u00A73kindabland! \u00A77 |\u00A77 Public Alpha v0.2.1"
   }
 }
